@@ -6,7 +6,7 @@ import { App } from './App';
 createServer({
   routes() {
     this.namespace = 'api';
-    this.get('/transaction', () => {
+    this.get('/transactions', () => {
       return [
         {
           id: 1,
