@@ -31,7 +31,7 @@ skills developed in the project:
 - Immutability
 - Hook's
     - useState
-    - useEffet
+    - useEffect
     - useContext
 ---
 
